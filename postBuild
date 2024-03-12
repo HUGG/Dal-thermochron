@@ -5,3 +5,11 @@ cd ..
 cd RDAAM_He
 make; make install
 cd ../..
+
+# Compile codes for tcplotter (U-Th)/He and FT age prediction
+cd tcplotter/tcplotter/src/ketch_aft
+make; make install
+cd ..
+cd RDAAM_He
+make; make install
+cd ../../../..
