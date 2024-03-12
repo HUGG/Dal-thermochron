@@ -1327,7 +1327,7 @@ def run_model(params):
 
     if params["plot_results"]:
         # Set plot style
-        plt.style.use("seaborn-darkgrid")
+        plt.style.use("seaborn-v0_8-darkgrid")
 
         # Plot initial temperature field
         fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 8))
