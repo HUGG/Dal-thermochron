@@ -4,9 +4,17 @@ This repository hosts the versions of [tcplotter](https://zenodo.org/badge/lates
 
 ## Exercises
 
-1. Exercise 1 - [Exploring the effects of cooling rate and eU concentration on closure temperatures](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tcplotter%2Frate-vs-tc.ipynb)
-2. Exercise 2 - [Exploring the effects of ranges of cooling rates, grain radii, and eU concentrations on closure temperatures](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tcplotter%2Frate-vs-radius-eu.ipynb)
-3. Exercise 3 - [Exploring the effects of ranges of cooling rates, grain radii, and eU concentrations on closure temperatures](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tc1d%2Fpy%2Fexplore_tc1d.ipynb)
+### Exercise 1: Exploring the effects of cooling rate and eU concentration on closure temperatures
+
+[Launch Binder for Exercise 1](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tcplotter%2Frate-vs-tc.ipynb)
+
+### Exercise 2: Exploring the effects of ranges of cooling rates, grain radii, and eU concentrations on closure temperatures
+
+[Launch Binder for Exercise 2](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tcplotter%2Frate-vs-radius-eu.ipynb)
+
+### Exercise 3: Exploring crustal thermal processes and thermochronometer ages
+
+[Launch Binder for Exercise 3](https://mybinder.org/v2/gh/HUGG/Dal-thermochron/HEAD?labpath=tc1d%2Fpy%2Fusing-tc1d.ipynb  )
 
 ## Tcplotter links
 
