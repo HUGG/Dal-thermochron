@@ -1,6 +1,6 @@
 # Dal-thermochron
 
-This repository hosts the versions of [tcplotter](https://zenodo.org/badge/latestdoi/444915688) and [Tc1D](https://zenodo.org/badge/latestdoi/314177994) used in the 2024 Geochronology and Thermochronology (ERTH6400) course at Dalhousie University. Links to the codes and exercises can be found below.
+This repository hosts the versions of [tcplotter](https://zenodo.org/badge/latestdoi/444915688) and [Tc1D](https://zenodo.org/badge/latestdoi/314177994) used in the 2025 Geochronology and Thermochronology (ERTH6400) course at Dalhousie University. Links to the codes and exercises can be found below.
 
 ## Exercises
 
