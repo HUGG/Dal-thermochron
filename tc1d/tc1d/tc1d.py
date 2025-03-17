@@ -15,8 +15,8 @@ from sklearn.model_selection import ParameterGrid
 from neighpy import NASearcher, NAAppraiser
 
 # Import user functions
-from madtrax.madtrax_apatite import madtrax_apatite
-from madtrax.madtrax_zircon import madtrax_zircon
+from tc1d.tc1d.madtrax.madtrax_apatite import madtrax_apatite
+from tc1d.tc1d.madtrax.madtrax_zircon import madtrax_zircon
 
 
 # Exceptions
