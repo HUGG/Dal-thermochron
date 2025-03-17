@@ -1,5 +1,6 @@
 CC = gcc
-CFLAGS = -g -I.
+#CFLAGS = -g -Wall -I.
+CFLAGS = -O2 -I.
 LIBS = -lm
 DEPS = ketch.h
 OBJ = ketch.c ketch_aft.c

@@ -1,16 +1,17 @@
-CC = g++
-CFLAGS = -g -I.
+CXX = g++
+CXXFLAGS = -g -Wall -I.
+CXXFLAGS = -O2 -I.
 DEPS = RDAAM.h
 OBJ = RDAAM.o RDAAM_He.cpp
 
 # Compiles source files
 %.o: %.c $(DEPS)
-	$(CC) -c -o $@ $< $(CFLAGS)
+	$(CXX) -c -o $@ $< $(CXXFLAGS)
 
 # Creates executable locally from object files
 RDAAM_He: $(OBJ)
 	@echo "Building RDAAM_He binary in local directory"
-	$(CC) -o $@ $^ $(CFLAGS)
+	$(CXX) -o $@ $^ $(CXXFLAGS)
 
 # Install executable in bin directory
 install: RDAAM_He
