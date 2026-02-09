@@ -9,4 +9,6 @@ make && make install
 cd ../RDAAM_He
 make && make install
 cd ../..
+
+# Return to base directory
 cd ..
