@@ -1,15 +1,10 @@
-# Compile codes for (U-Th)/He and FT age prediction
-cd tc1d/ketch_aft
-make; make install
-cd ..
-cd RDAAM_He
-make; make install
-cd ../..
+# Clone tcplotter
+git clone https://github.com/HUGG/tcplotter.git
+python -m pip install -e tcplotter
 
-# Compile codes for tcplotter (U-Th)/He and FT age prediction
-cd tcplotter/tcplotter/src/ketch_aft
-make; make install
-cd ..
-cd RDAAM_He
-make; make install
-cd ../../../..
+# Compile codes for (U-Th)/He and FT age prediction
+cd src/ketch_aft
+make && make install
+cd ../RDAAM_He
+make && make install
+cd ../..

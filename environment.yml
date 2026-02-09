@@ -2,9 +2,15 @@ name: thermochron-binder
 channels:
   - conda-forge
 dependencies:
+  - corner
+  - emcee
   - matplotlib
-  - numpy
-  - scipy
-  - IPython
-  - scikit-learn
   - neighpy
+  - numpy
+  - python>=3.10
+  - schwimmbad
+  - scikit-learn
+  - scipy
+  - pip
+  - pip:
+    - tc1d
