@@ -1,4 +1,4 @@
-# Dal-thermochron
+# An introduction to tcplotter and Tc1D
 
 This repository hosts Jupyter notebooks that introduce [tcplotter](https://zenodo.org/badge/latestdoi/444915688) and [Tc1D](https://zenodo.org/badge/latestdoi/314177994) for use in the 2026 Geochronology and Thermochronology (ERTH6400) course at Dalhousie University. Links to the codes and exercises can be found below.
 
